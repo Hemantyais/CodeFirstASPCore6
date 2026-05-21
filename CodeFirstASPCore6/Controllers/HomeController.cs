@@ -93,3 +93,6 @@ namespace CodeFirstASPCore6.Controllers
         }
     }
 }
+
+// this is code first project
+
